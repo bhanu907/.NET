@@ -1,0 +1,7 @@
+C:\Users\3-c\source\repos\7thprogram\bin\Debug\7thprogram.exe.config
+C:\Users\3-c\source\repos\7thprogram\bin\Debug\7thprogram.exe
+C:\Users\3-c\source\repos\7thprogram\bin\Debug\7thprogram.pdb
+C:\Users\3-c\source\repos\7thprogram\obj\Debug\7thprogram.csproj.AssemblyReference.cache
+C:\Users\3-c\source\repos\7thprogram\obj\Debug\7thprogram.csproj.CoreCompileInputs.cache
+C:\Users\3-c\source\repos\7thprogram\obj\Debug\7thprogram.exe
+C:\Users\3-c\source\repos\7thprogram\obj\Debug\7thprogram.pdb
